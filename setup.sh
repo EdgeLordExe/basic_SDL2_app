@@ -1,0 +1,2 @@
+mkdir include
+mkdir build
